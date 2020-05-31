@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHPStandardData", "MHPStandardData\MHPStandardData.csproj", "{1227193F-9722-42AB-91E6-7F824AA0E1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1227193F-9722-42AB-91E6-7F824AA0E1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1227193F-9722-42AB-91E6-7F824AA0E1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1227193F-9722-42AB-91E6-7F824AA0E1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1227193F-9722-42AB-91E6-7F824AA0E1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F382C9-E24F-456E-9D14-7656B0B49DED}
+	EndGlobalSection
+EndGlobal
